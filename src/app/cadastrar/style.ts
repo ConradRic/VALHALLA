@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
         justifyContent: "center",
         alignItems: "center",
         flex: 1,
-        backgroundColor: '#011841',
+        backgroundColor: 'black',
     },
     
     input:{
@@ -23,13 +23,13 @@ export const styles = StyleSheet.create({
     },
     
     textdetails:{
-        color: "#fff"
+        color: "gold"
     },
 
     btn:{
         width: 300,
         fontSize: 18,
-        backgroundColor: '#e42765',
+        backgroundColor: 'gray',
         padding: 12,
         borderRadius: 8,
         alignItems: 'center',

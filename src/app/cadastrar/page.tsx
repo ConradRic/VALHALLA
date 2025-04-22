@@ -14,7 +14,7 @@ export default function CadastrarScreen() {
         <View style={styles.container}>
             
             <Image
-                source={require("@/assets/images/LogoSimples.png")}
+                source={require("@/assets/images/RESTAURANTE.LOGO.PNG.png")}
                 style={{ 
                     width: 200, 
                     height: 200,
