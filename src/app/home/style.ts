@@ -114,7 +114,7 @@ export const styles = StyleSheet.create({
         marginBottom: 30
     },
     addToCartButton: {
-        backgroundColor: '#e42765', // Cor principal como solicitado
+        backgroundColor: 'gold', // Cor principal como solicitado
         padding: 15,
         borderRadius: 8,
         alignItems: 'center'
@@ -126,7 +126,7 @@ export const styles = StyleSheet.create({
     },
 
     backToMenuButton: {
-        backgroundColor: '#011841',
+        backgroundColor: 'gray',
         padding: 15,
         borderRadius: 8,
         alignItems: 'center',
